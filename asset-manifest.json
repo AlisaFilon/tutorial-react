@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https,://alisafilon.github.io/tutorial-react/static/css/main.b0a87355.chunk.css",
+    "main.js": "/https,://alisafilon.github.io/tutorial-react/static/js/main.3c2b0dae.chunk.js",
+    "main.js.map": "/https,://alisafilon.github.io/tutorial-react/static/js/main.3c2b0dae.chunk.js.map",
+    "runtime-main.js": "/https,://alisafilon.github.io/tutorial-react/static/js/runtime-main.6bec6e3f.js",
+    "runtime-main.js.map": "/https,://alisafilon.github.io/tutorial-react/static/js/runtime-main.6bec6e3f.js.map",
+    "static/js/2.34614854.chunk.js": "/https,://alisafilon.github.io/tutorial-react/static/js/2.34614854.chunk.js",
+    "static/js/2.34614854.chunk.js.map": "/https,://alisafilon.github.io/tutorial-react/static/js/2.34614854.chunk.js.map",
+    "index.html": "/https,://alisafilon.github.io/tutorial-react/index.html",
+    "static/css/main.b0a87355.chunk.css.map": "/https,://alisafilon.github.io/tutorial-react/static/css/main.b0a87355.chunk.css.map",
+    "static/js/2.34614854.chunk.js.LICENSE.txt": "/https,://alisafilon.github.io/tutorial-react/static/js/2.34614854.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bec6e3f.js",
+    "static/js/2.34614854.chunk.js",
+    "static/css/main.b0a87355.chunk.css",
+    "static/js/main.3c2b0dae.chunk.js"
+  ]
+}
